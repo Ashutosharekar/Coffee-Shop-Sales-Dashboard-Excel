@@ -54,7 +54,7 @@ The goal was to transform raw transactional data using Excel (Power Query & Pivo
 ---
 <h2><a class =”anchor” id=”Project-Structure”></a>Project Structure</h2>
 
-'''
+```
 coffee-shop-sales/
 ├─ README.md
 ├─ LICENSE
@@ -70,7 +70,7 @@ coffee-shop-sales/
 │   ├─ product_performance.png
 │   └─ store_revenue.png
 
-'''
+```
 ---
 <h2><a class =”anchor” id=”How to Use”></a>How to Use</h2>
 
