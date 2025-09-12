@@ -51,11 +51,6 @@ The goal was to transform raw transactional data using Excel (Power Query & Pivo
 
 ![Dashboard Overview](visuals/dashboard_overview.png)  
 
-Additional Views:  
-- Sales by Day → ![Sales by Day](visuals/sales_by_day.png)  
-- Product Performance → ![Products](visuals/product_performance.png)  
-- Store Revenue → ![Store](visuals/store_revenue.png)  
-
 ---
 <h2><a class =”anchor” id=”Project-Structure”></a>Project Structure</h2>
 
