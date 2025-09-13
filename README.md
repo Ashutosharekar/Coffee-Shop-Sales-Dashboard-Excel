@@ -3,7 +3,7 @@
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
 - <a href="#Tools-Used>">Tools Used</a>
-- <a href="#Project--Structure">Project Structure</a>
+- <a href="#Project-Structure">Project Structure</a>
 - <a href="#Business-Questions-Solved">Business Questions Solved</a>
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
@@ -21,8 +21,9 @@ The goal was to transform raw transactional data using Excel (Power Query & Pivo
 ---
 
 <h2><a class =”anchor” id=”Tools-Used”></a>Tools Used</h2> 
-- Microsoft Excel (Power Query, Pivot Tables, Charts, Slicers)
-- Dataset: [Maven Analytics - Coffee Shop Sales](https://mavenanalytics.io/data-playground)
+
+-  Microsoft Excel (Power Query, Pivot Tables, Charts, Slicers)
+-  Dataset: [Maven Analytics - Coffee Shop Sales] (https://mavenanalytics.io/data-playground)
 
 ---  
 <h2><a class =”anchor” id=”Business-Questions-Solved”></a>Business Questions Solved</h2> 
