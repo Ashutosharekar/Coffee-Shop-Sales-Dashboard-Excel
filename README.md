@@ -2,14 +2,14 @@
 ---
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
-- <a href="#Tools-Used>">Tools Used</a>
+- <a href="#Tools-Used">Tools-Used</a>
 - <a href="#Project-Structure">Project Structure</a>
 - <a href="#Business-Questions-Solved">Business Questions Solved</a>
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
 - <a href="#Project-Structure">Project Structure</a>
 - <a href="#How-to-Use">How to Use</a>
-- <a href="#Result-&-Conclusion">Result & Conclusion</a>
+- <a href="#Result--Conclusion">Result & Conclusion</a>
 - <a href="#Author--Contact">Author & Contact</a>
 
 ---
@@ -20,7 +20,7 @@ The goal was to transform raw transactional data using Excel (Power Query & Pivo
 
 ---
 
-<h2><a class =”anchor” id=”Tools-Used”></a>Tools Used</h2> 
+<h2><a class =”anchor” id=”Tools-Used”></a>Tools-Used</h2>
 
 -  Microsoft Excel (Power Query, Pivot Tables, Charts, Slicers)
 -  Dataset: [Maven Analytics - Coffee Shop Sales] (https://mavenanalytics.io/data-playground)
@@ -81,7 +81,7 @@ coffee-shop-sales/
 4. Explore interactive visuals & KPIs.  
 
 ---
-<h2><a class =”anchor” id=”Result & Conclusion”></a>Result & Conclusion</h2>
+<h2><a class =”anchor” id=”Result--Conclusion”></a>Result & Conclusion</h2>
 
 - Peak sales observed during morning hours (8–11 AM), especially on weekdays, indicating strong coffee demand during office hours.  
 - Saturday recorded the highest sales volume, showing weekend rush patterns.
@@ -90,9 +90,9 @@ coffee-shop-sales/
 - Insights suggest focusing on morning promotions, loyalty programs for weekdays, and expanding popular product categories to maximize revenue.
 
 ---
-<h2><a class =”anchor” id=”Author & Contact”></a>Author & Contact</h2>
-
-- Author: Ashutosh Arekar
+<h2><a class =”anchor” id=”Author--Contact”></a>Author & Contact</h2>
+This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
+- Project by: Ashutosh Arekar
 - Email: ashutosharekar02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashutosh-arekar-a837a2319/
 - GitHub: https://github.com/Ashutosharekar
