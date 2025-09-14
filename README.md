@@ -92,6 +92,7 @@ coffee-shop-sales/
 ---
 <h2><a class =”anchor” id=”Author--Contact”></a>Author & Contact</h2>
 This project was created as a self-learning exercise based on publicly available datasets and online tutorials. All implementation and practice work is done by me.
+
 - Project by: Ashutosh Arekar
 - Email: ashutosharekar02@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashutosh-arekar-a837a2319/
