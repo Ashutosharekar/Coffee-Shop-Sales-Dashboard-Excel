@@ -3,7 +3,6 @@
 ## 📌 Table of Contents
 - <a href="#Project-Overview">Project Overview</a>
 - <a href="#Tools-Used">Tools-Used</a>
-- <a href="#Project-Structure">Project Structure</a>
 - <a href="#Business-Questions-Solved">Business Questions Solved</a>
 - <a href="#Key-Insights">Key Insights</a>
 - <a href="#Dashboard-Preview">Dashboard Preview</a>
